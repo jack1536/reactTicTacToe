@@ -1,3 +1,5 @@
+Followed https://reactjs.org/tutorial/tutorial.html to build tictactoe game in React and familiarize myself with the tool
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
